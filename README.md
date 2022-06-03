@@ -1,5 +1,3 @@
 # NodeJS server
 
-## API without db
-
-## using json
+# development in progress
